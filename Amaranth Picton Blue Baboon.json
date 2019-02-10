@@ -186,10 +186,10 @@
 		},
 		"divider": "rgba(0, 0, 0, 0.12)",
 		"secondary": {
-			"main": "#E57373",
-			"light": "rgb(234, 143, 143)",
-			"dark": "rgb(160, 80, 80)",
-			"contrastText": "#FAFAFA"
+			"main": "#42A5F5",
+			"light": "rgb(103, 183, 247)",
+			"dark": "rgb(46, 115, 171)",
+			"contrastText": "rgba(0, 0, 0, 0.87)"
 		},
 		"common": { "black": "#000", "white": "#fff" },
 		"error": {
@@ -208,11 +208,11 @@
 			"active": "rgba(0, 0, 0, 0.54)"
 		},
 		"primary": {
-			"main": "#FFCDD2",
-			"light": "rgb(255, 215, 219)",
-			"dark": "rgb(178, 143, 147)",
-			"contrastText": "rgba(0, 0, 0, 0.87)"
+			"main": "#E91E63",
+			"light": "rgb(237, 75, 130)",
+			"dark": "rgb(163, 21, 69)",
+			"contrastText": "#fff"
 		}
 	},
-	"themeName": "Pastel Pink Sunglo Mini Donkey"
+	"themeName": "Amaranth Picton Blue Baboon"
 }
